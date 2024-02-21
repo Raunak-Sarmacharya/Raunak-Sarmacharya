@@ -30,7 +30,7 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 
 <details>
   <summary><b>🛠️ Languages and Tools</b></summary>
-
+  <br>
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -59,9 +59,13 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 </details>
 <details>
   <summary><b>⚡ Github Stats</b></summary>
+  
+> "Behold my GitHub stats! A thrilling saga of triumphs, 'oopsies', and the occasional 'why did I do this?' Revel in the mastery of languages I've used more by accident than design, and marvel at my relentless pursuit of coding excellence. It's not just code; it's a comedy of errors and learning! 😎👨‍💻🚀"
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raunak-sarmacharya&show_icons=true&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&show_icons=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=boxshop,bella,taracode,university,newsfeed,devtools"/>
+
+  
+[![raunak-sarmacharya](https://github-readme-stats.vercel.app/api?username=raunak-sarmacharya&theme=synthwave)](https://github.com/raunak-sarmacharya/github-readme-stats)
+[![raunak-sarmacharya](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&hide=html&layout=compact&theme=synthwave)](https://github.com/raunak-sarmacharya/github-readme-stats)
 </details>
 
 
