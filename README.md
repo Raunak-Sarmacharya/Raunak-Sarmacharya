@@ -26,10 +26,10 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 - 🤝 I'm always on the lookout for new learning opportunities and collaborations.
 - 🌟 I aspire to make a positive impact in the tech world and am excited about the future that lies ahead as a developer.
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
+<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
 
-
-## 🛠️ Languages and Tools
+<details>
+  <summary><b>🛠️ Languages and Tools</b></summary>
 
 <p align="left"> 
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -56,8 +56,12 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
+</details>
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
 
-## 🌐 Most Used Languages
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raunak-sarmacharya&show_icons=true&locale=en&layout=compact" alt="raunak-sarmacharya" /></p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raunak-sarmacharya&show_icons=true&hide_border=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&show_icons=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=boxshop,bella,taracode,university,newsfeed,devtools"/>
+</details>
 
 
