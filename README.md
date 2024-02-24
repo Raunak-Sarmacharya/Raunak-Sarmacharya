@@ -20,8 +20,9 @@
   
 <h1 align="center">Hi 👋, I'm Raunak (Ronnie)</h1>
 
-  
-## 🙋‍♂️ About Me
+<p align="left">
+  <strong>🙋‍♂️ About Me</strong>  
+</p>
 Hello! I'm a computer science student 👨‍💻, deeply passionate about leveraging technology to solve real-world problems. My interests are vast, encompassing software and app development, and I'm constantly exploring new programming languages, frameworks, and tech trends.
 
 - 🔭 Currently pursuing my Bachelor's degree in Computer Science at Memorial University of Newfoundland, Canada.
