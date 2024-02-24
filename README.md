@@ -1,6 +1,8 @@
 <div id="header" align="center">
   <img src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af" width="100%"/>
 </div>
+<h3 align="center">🚀 Let's Connect & Collaborate! </h3>
+<p align="center">In between coding marathons and caffeinated debug sessions, I'm all ears (or eyes) for a chat. Whether you have a world-changing idea, want to collaborate on a project, or just feel like sharing a good meme, hit me up! 💬👩‍💻</p>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/raunak-sarmacharya">
     <img src="https://img.shields.io/badge/LinkedIn-005571?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,12 +15,13 @@
   </a>
   <a href="https://wa.me/17096318480">
     <img src="https://img.shields.io/badge/WhatsApp-darkgreen?style=flat-square&logo=whatsapp&logoColor=green" alt="Whatsapp Badge"/>
-  </a></div>
+  </a>
+</div>
   
-<h1 align="center">Hi 👋, I'm Raunak(/rɔːnʌk/)/Ronnie</h1>
+<h1 align="center">Hi 👋, I'm Raunak (Ronnie)</h1>
 
   
-## About Me
+## 🙋‍♂️ About Me
 Hello! I'm a computer science student 👨‍💻, deeply passionate about leveraging technology to solve real-world problems. My interests are vast, encompassing software and app development, and I'm constantly exploring new programming languages, frameworks, and tech trends.
 
 - 🔭 Currently pursuing my Bachelor's degree in Computer Science at Memorial University of Newfoundland, Canada.
@@ -27,7 +30,9 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 - 🤝 I'm always on the lookout for new learning opportunities and collaborations.
 - 🌟 I aspire to make a positive impact in the tech world and am excited about the future that lies ahead as a developer.
 
-<img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
+<p align="left">
+  <img width="150" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
+</p>
 
 
 <details>
@@ -71,12 +76,16 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 </a>
 </details>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake.svg">
 </picture>
+<p align="center">
+  <strong>🐍 GitHub Contributions </strong><br>
+  <span style="font-size: 0.4em;"><i>inspired by <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a></i></span>
+</p>
+
 
 
 
