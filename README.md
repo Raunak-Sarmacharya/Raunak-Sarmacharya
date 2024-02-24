@@ -16,6 +16,7 @@
   </a></div>
   
 <h1 align="center">Hi 👋, I'm Raunak(/rɔːnʌk/)/Ronnie</h1>
+
   
 ## About Me
 Hello! I'm a computer science student 👨‍💻, deeply passionate about leveraging technology to solve real-world problems. My interests are vast, encompassing software and app development, and I'm constantly exploring new programming languages, frameworks, and tech trends.
@@ -27,6 +28,7 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 - 🌟 I aspire to make a positive impact in the tech world and am excited about the future that lies ahead as a developer.
 
 <img align="right" alt="Coding" width="200" src="https://media.giphy.com/media/lnaoFgGrDHnivdu5Bc/giphy.gif"/>
+
 
 <details>
   <summary><b>🛠️ Languages and Tools</b></summary>
@@ -57,16 +59,18 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
     <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> 
 </p>
 </details>
+
 <details>
   <summary><b>⚡ Github Stats</b></summary>
   
-> "Behold my GitHub stats! A thrilling saga of triumphs, 'oopsies', and the occasional 'why did I do this?' Revel in the mastery of languages I've used more by accident than design, and marvel at my relentless pursuit of coding excellence. It's not just code; it's a comedy of errors and learning! 😎👨‍💻🚀"
-
-
-  
-[![raunak-sarmacharya](https://github-readme-stats.vercel.app/api?username=raunak-sarmacharya&theme=synthwave)](https://github.com/raunak-sarmacharya/github-readme-stats)
-[![raunak-sarmacharya](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&hide=html&layout=compact&theme=synthwave)](https://github.com/raunak-sarmacharya/github-readme-stats)
+> Feast your eyes upon my GitHub stats! An epic tale of coding adventures, where 'Eureka!' meets 'Ehh, what?' 🤔. Witness the tapestry of languages I've dabbled in—some by fate, others by curiosity. Each commit, a step towards greatness; every repo, a chapter of growth.
+ 
+<a href="https://github.com/raunak-sarmacharya">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raunak-sarmacharya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
+</a>
 </details>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake-dark.svg">
