@@ -68,4 +68,11 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 [![raunak-sarmacharya](https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&hide=html&layout=compact&theme=synthwave)](https://github.com/raunak-sarmacharya/github-readme-stats)
 </details>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Raunak-Sarmacharya/Raunak-Sarmacharya/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 
