@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/raunak.sarmacharya.9">
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://raunaksarmacharya.webflow.io">
+  <a href="https://www.raunaksarmacharya.site">
     <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=about.me&logoColor=white" alt="Whatsapp Badge"/>
   </a>
   <a href="https://wa.me/17096318480">
