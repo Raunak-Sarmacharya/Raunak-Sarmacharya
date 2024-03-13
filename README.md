@@ -72,8 +72,8 @@ Hello! I'm a computer science student 👨‍💻, deeply passionate about lever
 > Feast your eyes upon my GitHub stats! An epic tale of coding adventures, where 'Eureka!' meets 'Ehh, what?' 🤔. Witness the tapestry of languages I've dabbled in—some by fate, others by curiosity. Each commit, a step towards greatness; every repo, a chapter of growth.
  
 <a href="https://github.com/raunak-sarmacharya">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raunak-sarmacharya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunak-sarmacharya&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raunak-Sarmacharya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-Sarmacharya&layout=compact&langs_count=20&theme=algolia&hide=Jupyter%20Notebook"/>
 </a>
 </details>
 
